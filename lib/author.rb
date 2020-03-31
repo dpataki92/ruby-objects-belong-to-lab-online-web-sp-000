@@ -3,5 +3,3 @@ class Author
 
 
 end
-
-
